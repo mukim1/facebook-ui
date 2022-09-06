@@ -3,4 +3,4 @@
 
 Facebook homepage ui clone using react-ts, tailwindcss.
 
-<img src="/readme/Screenshot (102).png" width={400} />
+<img src="public/readme/Screenshot (102).png" width={400} />
