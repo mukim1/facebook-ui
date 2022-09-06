@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "username": "adam",
+        "name": "Adam",
+        "profile_picture": ""
+      },
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita harum cupiditate atque, odio iste totam. Beatae mollitia dignissimos, ipsa optio odit repellendus unde commodi quam. Deleniti ad culpa officiis molestiae.",
+      "likes": [1, 2, 3, 4, 5],
+      "comments": []
+    },
+    {
+      "id": 2,
+      "user": {
+        "username": "adam",
+        "name": "Kaushik Dey",
+        "profile_picture": ""
+      },
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita harum cupiditate atque, odio iste totam. Beatae mollitia dignissimos, ipsa optio odit repellendus unde commodi quam. Deleniti ad culpa officiis molestiae.",
+      "likes": [1, 2, 3, 4, 5],
+      "comments": []
+    },
+    {
+      "id": 3,
+      "user": {
+        "username": "adam",
+        "name": "Adam",
+        "profile_picture": ""
+      },
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita harum cupiditate atque, odio iste totam. Beatae mollitia dignissimos, ipsa optio odit repellendus unde commodi quam. Deleniti ad culpa officiis molestiae.",
+      "likes": [1, 2, 3, 4, 5],
+      "comments": []
+    }
+  ]
+}
